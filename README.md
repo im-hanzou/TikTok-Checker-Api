@@ -1,2 +1,2 @@
-# TikTok-Checker-Api
-TikTok Check API access (/uniqueid/check) app api with params
+### app api with params:
+### 300 $
