@@ -1,5 +1,5 @@
 ### app api with params: (/uniqueid/check)
-### 100 $
+### 50 $
 
 #### Demo:
 <p align="center"> 
